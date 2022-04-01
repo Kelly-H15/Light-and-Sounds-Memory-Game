@@ -1,0 +1,125 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 2rem;
+  font-family: helvetica, arial, sans-serif;
+  background-color: #C6BDC3;
+  color:white;
+}
+
+h1{
+  font-family: verdana, arial, sans-serif;
+}
+
+button{
+  padding: 10px;
+    border-radius: 10px;
+  color: green;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden{
+  display: none;
+}
+
+#button1 {
+    background-image: url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/light%20green%20glitter.webp?v=1648621551241');
+            background-size: cover;
+            width: 300px;
+            height: 200px;
+            
+}
+
+#button1:active, #button1.lit {
+  background-image: 
+    url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/green%20glitter.jpeg?v=1648621563027');
+            background-size: cover;
+            
+}
+
+#button2 {
+    background-image: url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/light%20blue%20glitter.jpeg?v=1648621666812');
+            background-size: cover;
+            width: 300px;
+            height: 200px;
+            
+}
+
+#button2:active, #button2.lit {
+  background-image: 
+    url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/blue%20glitter.jpeg?v=1648621733333');
+            background-size: cover;
+}
+
+#button3 {
+    background-image: url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/pink%20glitter.jpeg?v=1648620445216');
+            background-size: cover;
+            width: 300px;
+            height: 200px;
+            
+}
+
+#button3:active, #button3.lit {
+  background-image: 
+    url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/red%20glitter.jpeg?v=1648620445217');
+            background-size: cover;
+}
+
+#button4 {
+    background-image: url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/light%20yellow.jpeg?v=1648621778612');
+            background-size: cover;
+            width: 300px;
+            height: 200px;
+            
+}
+
+#button4:active, #button4.lit {
+  background-image: 
+    url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/yellow%20.jpeg?v=1648621802566');
+            background-size: cover;
+} 
+#button5 {
+    background-image: url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/light%20purple.jpeg?v=1648621868158');
+            background-size: cover;
+            width: 300px;
+            height: 200px;
+            
+}
+
+#button5:active, #button5.lit {
+  background-image: 
+    url(
+'https://cdn.glitch.global/1b0cf164-c4b3-4ee0-a9d6-16ff1bdd7032/purple.jpeg?v=1648621888432');
+            background-size: cover;
+}
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
