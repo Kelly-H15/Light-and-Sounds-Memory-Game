@@ -75,7 +75,7 @@ If I had a couple of more hours, I would add a couple of features to improve the
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording](https://drive.google.com/file/d/1MJJ-AOTI-rSUrV5Sl7WOVNwKM1BZmB4_/view?usp=sharing)
-
+The video link opens in incognito link , just ensure cookies are enabled in the right corner of the address bar. 
 
 ## License
 
