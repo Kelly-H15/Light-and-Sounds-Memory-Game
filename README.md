@@ -74,7 +74,7 @@ If I had a couple of more hours, I would add a couple of features to improve the
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://drive.google.com/drive/folders/1Uz_iKonopCb_Vi8bwJxFSWM3ExoAonC6?usp=sharing)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1MJJ-AOTI-rSUrV5Sl7WOVNwKM1BZmB4_/view?usp=sharing)
 
 
 ## License
